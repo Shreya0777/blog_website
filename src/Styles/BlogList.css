@@ -1,0 +1,22 @@
+.blog-list {
+    padding: 1rem;
+  }
+  
+  .blog-preview {
+    border-bottom: 1px solid #ddd;
+    padding: 1rem 0;
+  }
+  
+  .blog-preview h2 {
+    margin: 0;
+  }
+  
+  .blog-preview img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .blog-preview p {
+    margin: 0.5rem 0;
+  }
+  
